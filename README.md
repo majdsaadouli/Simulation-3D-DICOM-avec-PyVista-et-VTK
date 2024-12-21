@@ -100,7 +100,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet :
 4. Soumettez une pull request.
 
 ## Auteurs
-- **Majd Saadouli (https://github.com/<votre-nom-utilisateur>)**  
+- **Majd Saadouli (https://github.com/majdsaadouli/majdsaadouli)**  
   Étudiant en Génie Biomédical passionné par la visualisation médicale et les technologies 3D.
 
 ## Licence
