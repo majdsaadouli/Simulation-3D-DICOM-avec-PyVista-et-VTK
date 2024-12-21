@@ -33,11 +33,11 @@ Avant de lancer le projet, assurez-vous que les dépendances suivantes sont inst
 ## Installation
 1. Clonez le dépôt GitHub sur votre machine :
    ```bash
-   git clone https://github.com/majdsaadouli/Simulation-3D-DICOM-avec-PyVista-et-VTK
+   git clone https://github.com/majdsaadouli/Simulation-3D-DICOM-avec-PyVista-et-VTK.git
    ```
 2. Accédez au répertoire du projet :
    ```bash
-   cd <nom-du-repo>
+   cd Simulation-3D-DICOM-avec-PyVista-et-VTK
    ```
 3. Installez les dépendances avec pip :
    ```bash
@@ -102,9 +102,6 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet :
 ## Auteurs
 - **Majd Saadouli (https://github.com/majdsaadouli/majdsaadouli)**  
   Étudiant en Génie Biomédical passionné par la visualisation médicale et les technologies 3D.
-
-## Licence
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
 
 ---
 Merci d'avoir utilisé cette application ! N'hésitez pas à me contacter pour toute question ou suggestion.
