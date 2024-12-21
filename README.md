@@ -33,7 +33,7 @@ Avant de lancer le projet, assurez-vous que les dépendances suivantes sont inst
 ## Installation
 1. Clonez le dépôt GitHub sur votre machine :
    ```bash
-   git clone https://github.com/<votre-nom-utilisateur>/<nom-du-repo>.git
+   git clone https://github.com/majdsaadouli/Simulation-3D-DICOM-avec-PyVista-et-VTK
    ```
 2. Accédez au répertoire du projet :
    ```bash
